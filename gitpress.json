@@ -1,1 +1,15 @@
-{}
+{
+    "docs"      : ["special-1.html"],
+    "template"    : "default",
+    "domain_alias" :  ["http://product.lina1125.gitpress.org/"],    
+    "perpage"   : 10,
+    "order"  : "number",
+    "types"     : {
+        "\\.(md||markdown)$"   : "markdown", 
+        "\\.(js||css||json)$"  : "code",
+        "\\.html?$"            : "html",
+        ".*"                   : "text"        
+    },
+    "title"  : "lina's Blog",
+    "description" : "Product show"
+}
