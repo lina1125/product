@@ -1,7 +1,6 @@
 {
     "docs"      : ["special-1.html"],
     "template"    : "default",
-    "domain_alias" :  ["http://product.lina1125.gitpress.org/"],    
     "perpage"   : 10,
     "order"  : "number",
     "types"     : {
