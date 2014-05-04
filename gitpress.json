@@ -1,5 +1,5 @@
 {
-    "docs"      : ["special-1.html"],
+    "docs"      : ["bbc.html"],
     "template"    : "default",
     "perpage"   : 10,
     "order"  : "number",
